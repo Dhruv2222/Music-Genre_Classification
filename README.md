@@ -7,6 +7,9 @@ Arinjay Jain
 
 Santosh Saranyan
 
+## About the project:
+This project focuses on the implementation and evaluation of various models, including Naïve Bayes as the baseline, Multiclass logistic regression, long short-term memory (LSTM), and LinearSVM, to classify songs into their respective genres based on the lyrics of each song. The dataset comprises over 138,000 English songs from various genres merged from 2 sources. It implements 2 word embedding techniques, Word2Vec and GLoVe, after preprocessing and cleaning the data. The performances of different models and embedding techniques are evaluated by calculating the accuracy, precision, recall, and F1 score. The results of this study can be used by music industry professionals to gain insights about the popularity and trends of different music genres and make data-driven decisions about music production and marketing. The project concludes by discussing the differences between the results obtained from each model and suggesting the most appropriate model for genre classification based on a song lyric task.
+
 ## FILES IN REPOSITORY
 **data**: https://www.dropbox.com/s/90i3kyd6z2e3s52/data.zip?dl=0 folder containing all necessary datasets and text files to run the project. This file has been compressed as a zip file. Extract before use.
 
