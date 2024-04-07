@@ -1,9 +1,9 @@
 # Music Genre Classification
 
 ## CODE AUTHORS
-Arinjay Jain
-
 Dhruv Doshi
+
+Arinjay Jain
 
 Santosh Saranyan
 
